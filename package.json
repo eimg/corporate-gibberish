@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "corporate-gibberish:generate"
   },
-  "repository": "https://github.com/atom/corporate-gibberish",
+  "repository": "https://github.com/eimg/corporate-gibberish",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
