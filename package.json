@@ -1,10 +1,9 @@
 {
   "name": "corporate-gibberish",
   "main": "./lib/corporate-gibberish",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Generate random corporate gibberish text",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "corporate-gibberish:generate"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
