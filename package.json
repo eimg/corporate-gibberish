@@ -5,7 +5,11 @@
   "description": "Generate random corporate gibberish text",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "corporate-gibberish:generate"
+    "atom-workspace": [
+      "corporate-gibberish:generateEN",
+      "corporate-gibberish:generateMM",
+      "corporate-gibberish:generateZG"
+    ]
   },
   "repository": "https://github.com/eimg/corporate-gibberish",
   "license": "MIT",

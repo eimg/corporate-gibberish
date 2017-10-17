@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Generate Corporate Gibberish",
-        "command": "corporate-gibberish:generate"
+        "label": "Corporate Gibberish",
+        "command": "corporate-gibberish:generateEN"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "Corporate Gibberish",
           "submenu": [
             {
-              "label": "Generate",
-              "command": "corporate-gibberish:generate"
+              "label": "Generate English",
+              "command": "corporate-gibberish:generateEN"
             }
           ]
         }

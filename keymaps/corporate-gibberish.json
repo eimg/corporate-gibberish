@@ -1,6 +1,7 @@
 {
   "atom-workspace": {
-    "ctrl-tab": "corporate-gibberish:generate",
-    "ctrl-g": "corporate-gibberish:generate"
+    "ctrl-tab": "corporate-gibberish:generateEN",
+    "ctrl-shift-tab": "corporate-gibberish:generateMM",
+    "ctrl-alt-shift-tab": "corporate-gibberish:generateZG"
   }
 }
