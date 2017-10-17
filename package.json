@@ -1,0 +1,18 @@
+{
+  "name": "corporate-gibberish",
+  "main": "./lib/corporate-gibberish",
+  "version": "0.1.0",
+  "description": "Generate random corporate gibberish text",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "corporate-gibberish:generate"
+  },
+  "repository": "https://github.com/atom/corporate-gibberish",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

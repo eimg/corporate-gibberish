@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Generate Corporate Gibberish",
+        "command": "corporate-gibberish:generate"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Corporate Gibberish",
+          "submenu": [
+            {
+              "label": "Generate",
+              "command": "corporate-gibberish:generate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
